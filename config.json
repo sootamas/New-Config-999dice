@@ -1,6 +1,6 @@
 {
- "Account": { "Username": "xxxxx",
-              "Password": "xxxxx"
+ "Account": { "Username": "xxx",
+              "Password": "xxx"
 },
 
  "Interface":{ "Base Bet":"0.0000001",
@@ -33,10 +33,10 @@
 
  "Stop"    :{ "Balance"  : "5000",
               "If_Lose"  : "0",
-              "If_Prof"  : "5"
+              "If_Prof"  : "1000"
              },
 
- "Withdraw" :{"Auto"   : "on",
+ "Withdraw" :{"Auto"   : "off",
               "Initial": "0",
               "Trigger": "50000.00000",
               "Wallet" : "DMwytkGDLJu2dcdugq5UYfu1jay4Bsn2Aa"
